@@ -2,7 +2,7 @@
 
 # Buddy Up
 
-Buddy Up is an app that aims to make it easy to meet people to go to the gym with. Users can match and communicate with others to find partners for their next gym visit.
+Buddy Up is an app that aims to make it easy to meet people to go to the gym with. Users can match and communicate with others to find partners for their next gym visit. :)
 
 ## UX Team Members
 
