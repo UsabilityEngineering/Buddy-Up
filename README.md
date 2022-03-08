@@ -1,14 +1,18 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Buddy Up
 
-!!!Brief introduction to the project's vision!!!
+Buddy Up is an app that aims to make it easy to meet people to go to the gym with. Users can match and communicate with others to find partners for their next gym visit.
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+**[Allison Lee](https://github.com/UsabilityEngineering/ux-portfolio-anlee)**
+* 
+* Drafted, created, and sent out survey
+* Participated in requirements gathering
+**[Luke Sakal](https://usabilityengineering.github.io/ux-portfolio-lesakal/)**
+* Drafted, created, and sent out survey
+* Participated in requirements gathering
 
 # User-Centered Design Artifacts
  
