@@ -1,12 +1,12 @@
 # Requirements Gathering
 
-### Method
+### Method:
 
 Survey (n=42):
 
 We chose a survey because it is a cheap and relatively quick way of gathering information. Google Forms allowed us to set up a short 5 minute survey that automatically aggregated our data into charts and a csv sheet for easy reference. 
 ___
-### Survey Findings
+### Survey Findings:
 
 __Demographics:__
 
@@ -22,7 +22,7 @@ There is a bimodal distribution in the times most respondents either wish to att
 
 When asked about their best and worst experiences attending a gym, there were two common responses in each category. For best experiences, people reported incidents where others motivated them and also times when the gym was empty, which let them have more freedom to use the machines and weights. The worst experiences often mentioned either a lack of a partner or instances where the gym was very busy.
 ___
-### Conclusions
+### Conclusions:
 
 From the data, we can conclude that many of our potential users are not experienced gym goers. Regardless of experience, they want long-term buddies that can help motivate them to go to the gym. Thus, Buddy Up should have features to cater to this. Having a way for users to indicate their experience and a good system for communication and connecting would be good features to have as they would increase the effectiveness of matches.
 
@@ -76,7 +76,7 @@ Goals
 Find someone who can guide him through working out
 Wants to improve his lifestyle
 
-### Scenarios
+### Scenarios:
 
 __Summer is coming late:__
 
@@ -90,6 +90,6 @@ __Stefan's Dilemma:__
 
 Stefan has been suffering from back pain and putting on the pounds. After a recent talk with his doctor, it was recommended that he begin regular exercise. Having an intense hatred for most cardio, he has decided to try out weight training at the local gym. However, being a bit self-conscious, Stefan is wary of going alone. He wonders if there is any way to meet someone who would be able to accompany him and show him the ropes.
 
-### Supplementary Materials
+### Supplementary Materials:
 
 Link to survey: https://forms.gle/8LaKxFZ6UJqJS1ku5
