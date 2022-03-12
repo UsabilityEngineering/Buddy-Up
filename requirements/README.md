@@ -8,11 +8,11 @@ We chose a survey because it is a cheap and relatively quick way of gathering in
 
 ### Survey Findings
 
-Demographics:
+__Demographics:__
 
 The age of the 42 people surveyed skews young, with the most common ages being 20 and 21 years old. Although this is the case, Buddy Up should appeal to any age group that frequents the gym. Slightly over half of respondents reside in medium cities, such as suburbs and larger towns. Both large cities and small cities make up slightly over 20% of the responses each. 
 
-Summary:
+__Summary:__
 
 When asked how often they go to the gym, 40.5% of respondents said never, 23.8% said 1-3 times a week, 16.7% said once a month, and 19% said daily. This lack of attendance is reflected in the answers to the Likert scale questions, in which the respondents were asked to rate their experiences with the gym. When evaluating the statement “The gym can be intimidating to go by myself”, over half (52%) of the respondents chose Strongly Agree, with a mostly even split between the other options. When asked if they were experienced with gym equipment, over 80% participants answered with Strongly Disagree, Disagree, or Neutral. Over 55% of the respondents Agreed or Strongly Agreed with the statement “I need someone to motivate me to go to the gym.” Less than 20% selected a form of disagreement. 
 
@@ -78,9 +78,15 @@ Wants to improve his lifestyle
 
 ### Scenarios
 
+__Summer is coming late:__
+
 Running late to class after trouble finding parking, Summer found herself fast-walking a couple blocks to campus. Getting into the classroom, she finds herself panting loudly and sweating. Embarrassed, she sits down and vows to start using the running track in the university gym. However, she has trouble staying committed and wishes that she could find a friend to talk about common interests with. Unfortunately, none of her friends can match her schedule.
 
+__David in Wonderland:__
+
 Having recently moved to Seattle, David finds himself all alone at the gym. He loves going, but he misses the group he used to hang out with back in his sleepy Midwestern hometown. Despite being outgoing, he’s had a bit of trouble making any substantial friends in Seattle. He’s starting to wonder if the “Seattle Freeze” thing is true. David would love to find someone to exercise with and he doesn’t mind helping out beginners. “Teaching is just another opportunity to learn,” he thinks to himself.
+
+__Stefan's Dilemma:__
 
 Stefan has been suffering from back pain and putting on the pounds. After a recent talk with his doctor, it was recommended that he begin regular exercise. Having an intense hatred for most cardio, he has decided to try out weight training at the local gym. However, being a bit self-conscious, Stefan is wary of going alone. He wonders if there is any way to meet someone who would be able to accompany him and show him the ropes.
 
