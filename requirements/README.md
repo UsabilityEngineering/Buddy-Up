@@ -52,9 +52,9 @@ As a student, Summer is constantly busy with both work and school and finds it h
 
 Summer wants to start going to the gym, but everytime, she thinks of an excuse to not go, “Oh, I’m too intimidated to go by myself, I’ll find myself a gym partner and go then” or “I don’t feel like going today, I’m too tired, I’ll go another day.”
 
-Goals
-Find new people to go to the gym with that has the same interests as her
-Discover gyms that are beginner friendly and non-intimidating
+Goals:
+* Find new people to go to the gym with that has the same interests as her
+* Discover gyms that are beginner friendly and non-intimidating
 
 __David__
 
@@ -67,9 +67,9 @@ David loves working out and keeping track of his fitness, nutrition, and weight 
 
 Before he moved from a quiet town in the Midwest to the busy streets of Seattle, he originally worked as a fitness trainer in a private gym before working a typical 9-5 job. As he goes to the gym now to work out, he notices that other people look nervous at the equipment, and some leave as soon as they walk in. Given his previous background as a trainer, he wants to help these people out but does not want to make assumptions about if they want to help or not. Additionally, because he moved to a new gym, he also wants to find a gym partner where they could keep each other motivated to push for new PRs as well as have similar interests. 
 
-Goals
-Want to help people become comfortable with the gym
-Find gym partners for mutual motivation
+Goals:
+* Want to help people become comfortable with the gym
+* Find gym partners for mutual motivation
 
 __Stefan__
 
@@ -82,9 +82,9 @@ Stefan loves his office job where he can work in an office with minimal contact 
 
 After some chiding from his doctor, Stefan has been wanting to improve his lifestyle but is afraid to start going to the gym. He has never gone before and is worried that everyone there already knows what they are doing and that he will seem foolish as a beginner. He wishes he knew someone who could guide him through some exercises.
 
-Goals
-Find someone who can guide him through working out
-Wants to improve his lifestyle
+Goals:
+* Find someone who can guide him through working out
+* Wants to improve his lifestyle
 
 ### Scenarios:
 
