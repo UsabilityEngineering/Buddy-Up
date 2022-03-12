@@ -13,7 +13,7 @@ Buddy Up is an app that aims to make it easy to meet people to go to the gym wit
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](requirements/Personas_and_Scenarios.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
