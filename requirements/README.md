@@ -5,7 +5,7 @@
 Survey (n=42):
 
 We chose a survey because it is a cheap and relatively quick way of gathering information. Google Forms allowed us to set up a short 5 minute survey that automatically aggregated our data into charts and a csv sheet for easy reference. 
-
+___
 ### Survey Findings
 
 __Demographics:__
@@ -21,7 +21,7 @@ Strength building, weight loss, cardio, and lifestyle improvement were the most 
 There is a bimodal distribution in the times most respondents either wish to attend the gym. The peak times were morning to noon (8:00 AM - 12:00 PM) and during the evening (4:00 PM - 8:00 PM). About 40% of respondents are only willing to commute 0-5 miles to a gym and around 47% were willing to go up to 10 miles. 
 
 When asked about their best and worst experiences attending a gym, there were two common responses in each category. For best experiences, people reported incidents where others motivated them and also times when the gym was empty, which let them have more freedom to use the machines and weights. The worst experiences often mentioned either a lack of a partner or instances where the gym was very busy.
-
+___
 ### Conclusions
 
 From the data, we can conclude that many of our potential users are not experienced gym goers. Regardless of experience, they want long-term buddies that can help motivate them to go to the gym. Thus, Buddy Up should have features to cater to this. Having a way for users to indicate their experience and a good system for communication and connecting would be good features to have as they would increase the effectiveness of matches.
@@ -29,11 +29,11 @@ From the data, we can conclude that many of our potential users are not experien
 Most respondents selected multiple reasons for going to the gym. As such, there should be a feature that allows them to specify the goals they are willing to pursue. This can be used to let users see if their desires match up with potential gym buddies. The desire to share interests with potential gym partners indicates that users may need an efficient way to learn more about each other.
 
 Since respondents have common complaints about busy gyms, it may be worthwhile to implement the ability to report how busy certain gyms are at certain times. This information can then be displayed to users. Since respondents seem to prefer gyms that are nearby, it may be beneficial to list gyms based on proximity. Including these features could have a positive impact on user satisfaction.
-
+___
 ### Caveats:
 
 A caveat to this survey is that although it is a method that can be widely spread with ease, it only allows for quantitative data rather than qualitative data. The survey also makes it difficult to have respondents explain their answers. An interview would allow us to ask more in depth questions and get to know what habits gym-goers or non gym-goers have that could help us improve both the personas and scenarios that we create. Additionally, the survey was primarily spread to young adults, thus it lacks information on older users. The app should be designed for people of all ages who may struggle with finding a person to workout with, rather than just those in their 20’s. 
-
+___
 ### Personas:
 
 __Summer__
