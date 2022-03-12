@@ -86,6 +86,7 @@ Goals:
 * Find someone who can guide him through working out
 * Wants to improve his lifestyle
 
+___
 ### Scenarios:
 
 __Summer is running late:__
@@ -100,6 +101,7 @@ __Stefan's Dilemma:__
 
 Stefan has been suffering from back pain and putting on the pounds. After a recent talk with his doctor, it was recommended that he begin regular exercise. Having an intense hatred for most cardio, he has decided to try out weight training at the local gym. However, being a bit self-conscious, Stefan is wary of going alone. He wonders if there is any way to meet someone who would be able to accompany him and show him the ropes.
 
+___
 ### Supplementary Materials:
 
 Link to survey: [https://forms.gle/8LaKxFZ6UJqJS1ku5](https://forms.gle/8LaKxFZ6UJqJS1ku5)
