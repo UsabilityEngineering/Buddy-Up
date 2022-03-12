@@ -21,6 +21,7 @@ Strength building, weight loss, cardio, and lifestyle improvement were the most 
 There is a bimodal distribution in the times most respondents either wish to attend the gym. The peak times were morning to noon (8:00 AM - 12:00 PM) and during the evening (4:00 PM - 8:00 PM). About 40% of respondents are only willing to commute 0-5 miles to a gym and around 47% were willing to go up to 10 miles. 
 
 When asked about their best and worst experiences attending a gym, there were two common responses in each category. For best experiences, people reported incidents where others motivated them and also times when the gym was empty, which let them have more freedom to use the machines and weights. The worst experiences often mentioned either a lack of a partner or instances where the gym was very busy.
+
 ___
 ### Conclusions:
 
@@ -40,8 +41,8 @@ __Summer__
 
 ![College girl](persona_imgs/AdobeStock_280000198.jpeg)
 
-22 year old female in San Marcos, California
-Student at CSU San Marcos
+22 year old female in San Marcos, California •
+Student at CSU San Marcos •
 Majoring in Political Science
 
 As a student, Summer is constantly busy with both work and school and finds it hard to find a balance between it all. She loves wandering downtown, trying to find new places to eat. She’s an outgoing person, constantly making friends in her classes and getting to know her customers at work. She loves listening to rock music, creating new coffee drinks, and immersing herself in her research. 
@@ -56,7 +57,7 @@ __David__
 
 ![Accountant](persona_imgs/AdobeStock_327295497.jpeg)
 
-27 year old male in Seattle, Washington
+27 year old male in Seattle, Washington •
 Accountant at a large company
 
 David loves working out and keeping track of his fitness, nutrition, and weight goals. He is a kindhearted and outgoing person, always looking to help others out. He also loves to frequent bars to meet new people.
@@ -71,7 +72,7 @@ __Stefan__
 
 ![Chinese Man](persona_imgs/AdobeStock_98179809.jpeg)
 
-39 year old male in London, Kentucky
+39 year old male in London, Kentucky •
 Forensics Analyst for the Department of Transportation
 
 Stefan loves his office job where he can work in an office with minimal contact with others. His job is task oriented where he can set a schedule for himself and get his tasks done. He is typically shy, not wanting to talk to too many coworkers if he can and usually communicates through email and text, which is more comfortable for him. 
@@ -84,7 +85,7 @@ Wants to improve his lifestyle
 
 ### Scenarios:
 
-__Summer is coming late:__
+__Summer is running late:__
 
 Running late to class after trouble finding parking, Summer found herself fast-walking a couple blocks to campus. Getting into the classroom, she finds herself panting loudly and sweating. Embarrassed, she sits down and vows to start using the running track in the university gym. However, she has trouble staying committed and wishes that she could find a friend to talk about common interests with. Unfortunately, none of her friends can match her schedule.
 
