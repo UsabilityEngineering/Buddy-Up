@@ -5,6 +5,7 @@
 Survey (n=42):
 
 We chose a survey because it is a cheap and relatively quick way of gathering information. Google Forms allowed us to set up a short 5 minute survey that automatically aggregated our data into charts and a csv sheet for easy reference. 
+
 ___
 ### Survey Findings:
 
@@ -30,10 +31,12 @@ From the data, we can conclude that many of our potential users are not experien
 Most respondents selected multiple reasons for going to the gym. As such, there should be a feature that allows them to specify the goals they are willing to pursue. This can be used to let users see if their desires match up with potential gym buddies. The desire to share interests with potential gym partners indicates that users may need an efficient way to learn more about each other.
 
 Since respondents have common complaints about busy gyms, it may be worthwhile to implement the ability to report how busy certain gyms are at certain times. This information can then be displayed to users. Since respondents seem to prefer gyms that are nearby, it may be beneficial to list gyms based on proximity. Including these features could have a positive impact on user satisfaction.
+
 ___
 ### Caveats:
 
 A caveat to this survey is that although it is a method that can be widely spread with ease, it only allows for quantitative data rather than qualitative data. The survey also makes it difficult to have respondents explain their answers. An interview would allow us to ask more in depth questions and get to know what habits gym-goers or non gym-goers have that could help us improve both the personas and scenarios that we create. Additionally, the survey was primarily spread to young adults, thus it lacks information on older users. The app should be designed for people of all ages who may struggle with finding a person to workout with, rather than just those in their 20’s. 
+
 ___
 ### Personas:
 
