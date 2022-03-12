@@ -38,6 +38,8 @@ ___
 
 __Summer__
 
+![College girl](persona_imgs/AdobeStock_280000198.jpeg)
+
 22 year old female in San Marcos, California
 Student at CSU San Marcos
 Majoring in Political Science
@@ -52,6 +54,8 @@ Discover gyms that are beginner friendly and non-intimidating
 
 __David__
 
+![Accountant](persona_imgs/AdobeStock_327295497.jpeg)
+
 27 year old male in Seattle, Washington
 Accountant at a large company
 
@@ -64,6 +68,8 @@ Want to help people become comfortable with the gym
 Find gym partners for mutual motivation
 
 __Stefan__
+
+![Chinese Man](persona_imgs/AdobeStock_98179809.jpeg)
 
 39 year old male in London, Kentucky
 Forensics Analyst for the Department of Transportation
