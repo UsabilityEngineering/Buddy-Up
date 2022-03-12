@@ -1,3 +1,7 @@
+# Buddy Up
+
+Buddy Up is an app that aims to make it easy to meet people to go to the gym with. Users can match and communicate with others to find partners for their next gym visit.
+
 ## UX Team Members
 
 **[Allison Lee](https://github.com/UsabilityEngineering/ux-portfolio-anlee)**
@@ -53,7 +57,7 @@ Our online survey received (n=42) responses
 
 From our requirements gathering, we’ve discovered the following:
   * Gym-goers need a way to __express their experience level with the gym__
-  * People want __gym partners who they connect with__, facilitating __communication between users__ is essential and users may desire a way to __quickly learn about a potential partner__
+  * People want __gym partners who they connect with__, facilitating __communication between users__ is essential and users may desire a way to __quickly learn about or match with a potential partner__
   * Many people report __bad experiences when the gym is busy__ and may want a way to __avoid peak hours__
   * Most are __unwilling to travel far__ to go to a gym; __proximal establishments would be preferable__
 
