@@ -69,3 +69,6 @@ Should the user forget their password, they have the option to tap the ‘Forgot
 
 After entering a new password and confirming it, the user will be given feedback on the success of the password reset. Then they can click the ‘Login’ button to return to the login screen and enter their new information. The back button on this page also redirects to the login.
 
+### Supplementary Materials:
+* [Wireframe PDF](./artboard.pdf)
+* [Click-through prototype](https://xd.adobe.com/view/9482b2ea-ffc1-488b-b419-ed1edaa49578-c1d1/?fullscreen&hints=off)
