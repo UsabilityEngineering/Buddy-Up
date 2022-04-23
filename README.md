@@ -64,7 +64,21 @@ From our requirements gathering, we’ve discovered the following:
 
 **Executive Summary**
 
-Coming soon
+In this interaction design phase, we have created wireframes and click-through prototypes that reflect the needs of our users.
+
+**Wireframes** are **basic framework of the project’s layout**, giving us an idea of where to place different elements, without needing to code. The **click-through prototype** provides an **interactive experience** and **illustrates the different flows that users may experience** when using our app.
+
+Both the wireframe and click-through prototype feature:
+* Pages for **signing up**:
+  * Each page represents different details to **build the user’s profile**, such as **name, age, photos, hobbies, experience level, goals, activities of interest, and gym location**
+* Pages for **logging in**
+* Pages for **resetting a password**
+* **Home page** featuring different **users’ profiles** and the **buttons for matching or rejecting**
+* Pages for showing a **detailed view** of **users’ profiles** 
+* A page for **editing the user’s own profile**
+* Pages to show **how users message one another**
+* A **menu** that has buttons for **navigating the app, customizing settings, logging out, and account information**
+* Pages showing **settings and informational pages**
 
 [Full phase 2 report](design/)
 
