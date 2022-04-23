@@ -6,15 +6,17 @@ Buddy Up is an app that aims to make it easy to meet people to go to the gym wit
 
 **[Allison Lee](https://github.com/UsabilityEngineering/ux-portfolio-anlee)**
 * Phase 1: Wrote method description, collaborated on findings, wrote caveats, and wrote personas.
+* Phase 2: Collaborated on wireframe and prototype (60%), collaborated on dedicated page content.
 
 **[Luke Sakal](https://usabilityengineering.github.io/ux-portfolio-lesakal/)**
 * Phase 1: Wrote executive summary, collaborated on findings, wrote conclusion, wrote scenarios, edited and finalized report.
+* Phase 2: Collaborated on wireframe and prototype (40%), collaborated on dedicated page content, wrote executive summary.
 
 # User-Centered Design Artifacts
 
 * [Personas and Scenarios](requirements/Personas_and_Scenarios.pdf)
-* [Wireframes](#) - Coming soon!
-* [Prototype](#) - Coming soon!
+* [Wireframes](#)
+* [Prototype](#) - Draft
 
 # Phase 1: Requirements Gathering
 
