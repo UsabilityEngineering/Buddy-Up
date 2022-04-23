@@ -16,6 +16,7 @@ To allow users to know what a potential buddy looks like, all users are asked to
   <img src="https://user-images.githubusercontent.com/83680711/164876600-3d41d1c4-5f19-4fd4-ae98-0cc490072832.png" alt="skull" height="400">
   <img src="https://user-images.githubusercontent.com/83680711/164876870-53e08621-f65e-44c7-b506-63871bb254cf.png" alt="bird" height="400">
 </p>
+
 *Figure 3: The Home page and a user's profile*
 
 Once the user has registered or logged in, they are presented with the homepage, which shows other potential users they could buddy up with. Each profile card has the summarized version of the information that user provided upon sign up: their first name, age, an image of themselves, their home gym, a list of physical activities they enjoy, and a list of goals for being on the app, and their experience level. 
