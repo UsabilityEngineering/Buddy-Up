@@ -7,7 +7,11 @@ From our first wireframe of BuddyUp, a heuristic evaluation was conducted based 
 However, the cognitive walkthrough produced results that were accurate to what was anticipated. Both participants picked the scenario where a man wanted to buddy up with someone who was relatively new to the gym, and both successfully listed the complete tasks to achieve that goal. These tasks aligned with the experiences we wanted the users to have. 
 ___
 
-### Explanation of Tasks
+### Explanation of Tasks and Questions
+
+#### Background
+
+The background question attempts to see if participants have used similar apps in the past and how they've met people in their life. This allows us to get an idea of their past experiences and judge the possible advantages more experienced participants may have regarding learnability. 
 
 #### Task 1:
 
@@ -24,7 +28,11 @@ Task 2 gives insight into the learnability and effectiveness of the matching pro
 #### Task 3:
 Task 3 asks participants to make changes to their profile, giving them instructions to change their profile pictures, gym location, experience level, and activities. Once complete, participants are asked to rate the ease by which the process was completed.
 
-This task focuses on gauging learnability, error tolerance, and effectiveness. If the app is learnable, then users should have little problem finding the page and options to edit their profile. If editing can be done successfully then it provides users a way to fix any mistakes that they may have made during sign up. Being able to update gym, goals, and experience is also important to reflecting users’ locations and improvements, which is important the app effectiveness.  
+This task focuses on gauging learnability, error tolerance, and effectiveness. If the app is learnable, then users should have little problem finding the page and options to edit their profile. If editing can be done successfully then it provides users a way to fix any mistakes that they may have made during sign up. Being able to update gym, goals, and experience is also important to reflecting users’ locations and improvements, which is important the app effectiveness.
+
+#### Wrap Up Questions:
+
+The wrap up questions aim to get any additional feedback on what participants liked, disliked, or would have liked to see. These questions help us assess what users appreciated, if there are any issues that need to be fixed, and possible future endeavors. 
 ___
 
 ### Study Approach
