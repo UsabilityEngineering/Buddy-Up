@@ -22,7 +22,6 @@ Buddy Up is an app that aims to make it easy to meet people to go to the gym wit
 
 **Executive Summary**
 
-
 Buddy Up’s goal is to connect gym-goers to potential gym partners. In this requirements gathering phase, we collected information to help us understand the needs and current habits of potential users.
 
 We surveyed people interested in going to the gym to understand their habits and desires:
@@ -86,6 +85,23 @@ Both the wireframe and click-through prototype feature:
 
 **Executive Summary**
 
-Coming soon
+For the final phase of the project, we received feedback from our heuristic evaluations and used cognitive walkthroughs to modify the click-through prototype. From those findings, we finalized our higher fidelity click-through prototype and created a protocol to prepare for a pilot evaluation and usability test. 
+
+**Heuristic evaluations** are a way of **measuring usability problems** within the user interface design, typically judged against common, recognized usability principles. 
+
+**Cognitive walkthroughs** are similar in that it identifies usability issues within interactive systems by **identifying the user goal**, the **tasks** to accomplish the goal and recording the **experience** while completing the tasks. 
+
+**Protocols** define the way in which a usability testing session will be executed. This includes the **script and instructions** that the moderator will follow and read aloud to the user. 
+
+Our protocol includes:
+* An **introduction** to familiarize the user with what is about to take place
+* **Background** questions to survey the user’s prior experience of meeting new people
+* Various **tasks** to **evaluate the user’s experience**
+  * **Creating** an **account**
+  * Looking for **someone matching specific criteria**
+  * **Editing** profile and settings
+* **Ratings** on a scale of 1-5, with 1 being Difficult and 5 being Easy, for **each task**
+* A section to **wrap up** the user test and ask users to rate **their overall experience** with the app
+
 
 [Full phase 3 report](evaluation/)
