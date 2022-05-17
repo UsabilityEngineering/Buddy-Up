@@ -7,7 +7,6 @@ From our first wireframe of BuddyUp, a heuristic evaluation was conducted based 
 However, the cognitive walkthrough produced results that were accurate to what was anticipated. Both participants picked the scenario where a man wanted to buddy up with someone who was relatively new to the gym, and both successfully listed the complete tasks to achieve that goal. These tasks aligned with the experiences we wanted the users to have. 
 
 ___
-
 ### Explanation of Tasks and Questions
 
 #### Background:
@@ -36,7 +35,6 @@ This task focuses on gauging learnability, error tolerance, and effectiveness. I
 The wrap up questions aim to get any additional feedback on what participants liked, disliked, or would have liked to see. These questions help us assess what users appreciated, if there are any issues that need to be fixed, and possible future endeavors. 
 
 ___
-
 ### Study Approach
 
 The study employed a think-aloud approach. Participants were given tasks to complete with a click-through protype and told to explain how they approached these taks. This gave insight into why they chose to take the actions they did and gave us feedback about any instances of confusion or content. From this, we not only see if they are able to accomplish tasks, but also if the conceptual and mental models are in sync. 
@@ -44,7 +42,6 @@ The study employed a think-aloud approach. Participants were given tasks to comp
 In this case, the study was a summative evaluation, as this is the final prototype that will be produced. 
 
 ___
-
 ### Interpreting Data
 
 #### Study Findings:
@@ -71,7 +68,6 @@ Increasing profile card and font size should alleviate complaints regarding read
 Finally, additional features can be worked on once base functionality is completed. Filters may necessitate back-end storage of user selections so that filtering is possible.
 
 ___
-
 ### Supplementary Materials
 
 * [Protocol PDF](protocol.pdf)
