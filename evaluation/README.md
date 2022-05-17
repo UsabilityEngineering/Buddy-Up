@@ -9,7 +9,7 @@ ___
 
 ### Explanation of Tasks and Questions
 
-#### Background
+#### Background:
 
 The background question attempts to see if participants have used similar apps in the past and how they've met people in their life. This allows us to get an idea of their past experiences and judge the possible advantages more experienced participants may have regarding learnability. 
 
