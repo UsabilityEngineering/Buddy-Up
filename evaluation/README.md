@@ -57,3 +57,11 @@ Google, Facebook, and Apple sign-ups and logins can be addressed by adding addit
 Increasing profile card and font size should alleviate complaints regarding readability. Attention to size and positioning hierarchy can be employed to make important information, such as gym location, more prominent.
 
 Finally, additional features can be worked on once base functionality is completed. Filters may necessitate back-end storage of user selections so that filtering is possible.
+___
+
+### Supplementary Materials
+
+* [Protocol PDF](Protocol_ Buddy Up Evaluation.pdf)
+* [Interactive click-through Prototype]()
+* [Data collection spreadsheet](https://docs.google.com/spreadsheets/d/1JuUk5VkOtw8h9Kbi7dMJ1P5RUsz9vNSpQYUdmaedtyA/edit?usp=sharing)
+
