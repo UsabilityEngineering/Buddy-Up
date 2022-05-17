@@ -4,7 +4,7 @@ Buddy Up is an app that aims to make it easy to meet people to go to the gym wit
 
 ## UX Team Members
 
-**[Allison Lee](https://github.com/UsabilityEngineering/ux-portfolio-anlee)**
+**[Allison Lee](https://usabilityengineering.github.io/ux-portfolio-anlee/)**
 * Phase 1: Wrote method description, collaborated on findings, wrote caveats, and wrote personas.
 * Phase 2: Collaborated on wireframe and prototype (60%), collaborated on report page content.
 
