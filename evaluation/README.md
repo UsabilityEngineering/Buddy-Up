@@ -61,7 +61,7 @@ ___
 
 ### Supplementary Materials
 
-* [Protocol PDF](Protocol_ Buddy Up Evaluation.pdf)
-* [Interactive click-through Prototype]()
+* [Protocol PDF](evaluation/protocol)
+* [Interactive click-through Prototype](https://xd.adobe.com/view/1ed27592-62c3-40b2-a667-23ce74273ffb-4b81/?fullscreen&hints=off)
 * [Data collection spreadsheet](https://docs.google.com/spreadsheets/d/1JuUk5VkOtw8h9Kbi7dMJ1P5RUsz9vNSpQYUdmaedtyA/edit?usp=sharing)
 
