@@ -1,5 +1,12 @@
 # Usability Evaluation
 
+### Heuristic Evaluation and Cognitive Walkthroughs
+
+From our first wireframe of BuddyUp, a heuristic evaluation was conducted based on Jakob Nielsen’s 10 general principles for interaction design. The user was asked to provide a score for each of the heuristics on a scale of 1-4 with 1 being very poor and 4 very good and provide an explanation of what could be improved. Out of the 10 heuristics, only “consistency and standards” and “flexibility and efficiency of use” received scores of 2. It was noted that the consistency between the buttons and their functions did not match convention, and the expected outcome of their actions was not executed. The user had noted that it felt like they were “digging for options” in the sidebar menu to find what they were looking for. 
+
+However, the cognitive walkthrough produced results that were accurate to what was anticipated. Both participants picked the scenario where a man wanted to buddy up with someone who was relatively new to the gym, and both successfully listed the complete tasks to achieve that goal. These tasks aligned with the experiences we wanted the users to have. 
+___
+
 ### Explanation of Tasks
 
 #### Task 1:
